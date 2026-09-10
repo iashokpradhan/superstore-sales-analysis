@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis Dashboard
+# 📊 Superstore Sales Analysis
 
 An end-to-end **Data Analytics** project that analyzes retail sales performance, customer behavior, product profitability, regional performance, and sales trends using **PostgreSQL, SQL, Power BI, DAX, Power Query, and Excel**.
 
